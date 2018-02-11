@@ -2,6 +2,7 @@
 
 ### Quickstart
 1. Clone this repo
+1. Run `pip install -r requirements.txt`
 1. Run `python draw_email_signature.py <ppm_amount>`
 
 ### Example Output
