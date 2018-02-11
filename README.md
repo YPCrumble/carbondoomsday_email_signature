@@ -2,6 +2,7 @@
 
 ### Quickstart
 1. Clone this repo
+1. Set the `ppm` variable in draw_email_signature.py
 1. Run `python draw.py`
 
 ### Output
