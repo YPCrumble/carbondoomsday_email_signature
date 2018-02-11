@@ -3,10 +3,12 @@
 # https://stackoverflow.com/a/38629258/2532070
 # https://stackoverflow.com/a/273962/2532070
 # https://stackoverflow.com/a/2563883/2532070
+import sys
 from PIL import Image, ImageFont, ImageDraw, ImageEnhance
 
 
-ppm = "412.32"
+# ppm = "412.32"
+ppm = sys.argv[1]
 
 
 def add_border_radius(im, rad):
