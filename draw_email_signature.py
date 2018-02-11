@@ -3,6 +3,8 @@
 # https://stackoverflow.com/a/38629258/2532070
 # https://stackoverflow.com/a/273962/2532070
 # https://stackoverflow.com/a/2563883/2532070
+# add_border_radius method:
+# https://stackoverflow.com/a/11291419/2532070
 import sys
 from PIL import Image, ImageFont, ImageDraw, ImageEnhance
 
