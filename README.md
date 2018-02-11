@@ -7,3 +7,5 @@
 
 ### Example Output
 <a href="https://www.carbondoomsday.com"><img src="carbondoomsday_email_signature_sample.png"/></a>
+
+Per discussion on https://github.com/giving-a-fuck-about-climate-change/carbon-inferno/issues/149
